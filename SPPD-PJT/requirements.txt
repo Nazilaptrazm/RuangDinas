@@ -1,0 +1,1 @@
+# Aplikasi menggunakan pustaka bawaan Python; belum memerlukan paket tambahan.
